@@ -15,12 +15,12 @@ def func2(arg1, arg2):
     print(arg1 + " " + arg2)
 
 
-func2("Vitor" , "Feltrim")
+func2("Vitor", "Feltrim")
 
 
 # função que retorna um valor
 def cubo(x):
-    return x * x* x
+    return x * x * x
 
 
 f = cubo(3)
