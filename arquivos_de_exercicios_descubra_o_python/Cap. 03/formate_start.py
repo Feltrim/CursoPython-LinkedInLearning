@@ -12,7 +12,7 @@ def formata_data_hora():
 
 # %y/%Y - Ano, %a/%A - Dia da semana, %b/%B - Mês, %d - dia do mês
     print(hoje.strftime('O ano é: %Y'))
-#% c - data e hora da localidade,% x - data da localidade,% X - hora da localidade
+# % c - data e hora da localidade,% x - data da localidade,% X - hora da localidade
     print(hoje.strftime('Data e hora local: %c'))
 
 #### Time Formatting ####

@@ -19,4 +19,5 @@ def manipula_data_hora():
     tempo = datetime.time(data)
     print(f'Hora atual: {tempo}')
 
+
 manipula_data_hora()
