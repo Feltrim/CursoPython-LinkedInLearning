@@ -14,7 +14,7 @@ def copia_arquivo():
         shutil.copystat(path_atual, novo_path)
 
 
-# copia_arquivo()
+copia_arquivo()
 
 
 def renomear_arquivo():
